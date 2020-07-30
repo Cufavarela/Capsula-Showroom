@@ -8,7 +8,8 @@ export default {
             marca: "Capsula",
             rating: 4.5,
             numReviews: 10,
-            categoria:"sweaters"
+            categoria:"sweaters",
+            countInStock: 7,
         },
         {
             _id: "2",
@@ -18,7 +19,9 @@ export default {
             marca: "Capsula",
             rating: 4.5,
             numReviews: 10,
-            categoria:"sweaters"
+            categoria:"sweaters",
+            countInStock: 0,
+
         },
         {
             _id: "3",
@@ -28,7 +31,9 @@ export default {
             marca: "Capsula",
             rating: 4.5,
             numReviews: 10,
-            categoria:"sweaters"
+            categoria:"sweaters",
+            countInStock: 5,
+
         },
         {
             _id: "4",
@@ -38,7 +43,9 @@ export default {
             marca: "Capsula",
             rating: 4.5,
             numReviews: 10,
-            categoria:"sweaters"
+            categoria:"sweaters",
+            countInStock: 6,
+
         },
         {
             _id: "5",
@@ -48,7 +55,9 @@ export default {
             marca: "Capsula",
             rating: 4.5,
             numReviews: 10,
-            categoria:"sweaters"
+            categoria:"sweaters",
+            countInStock: 4,
+
         },
     ]
 }
