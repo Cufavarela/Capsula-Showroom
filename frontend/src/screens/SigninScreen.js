@@ -21,7 +21,7 @@ function SigninScreen (props) {
     }, [userInfo]);
 
     const submitHandler = (e) => {
-        e.preventDefalut();
+        e.preventDefault();
         dispatch(signin(email, password));
     }
 
